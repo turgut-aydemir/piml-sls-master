@@ -1,4 +1,4 @@
-# Frontend for Trading Service - Distributed System School Project
+# This codebase is utilized for implementing Physics-Informed Machine Learning (PIML) techniques in support of Turgut Aydemir's master thesis, under the guidance and advice of DI Dr. techn. Mugdim Bublin. 
 
 ## Table of contents
 
